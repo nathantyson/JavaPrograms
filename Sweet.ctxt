@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Sweet
+comment1.params=
+comment1.target=Sweet()
+comment1.text=\r\n\ Null\ constructor\ for\ Sweet\ item\ class\r\n
+comment2.params=name
+comment2.target=Sweet(java.lang.String)
+comment2.text=\r\n\ Initializes\ data\r\n
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment3.text=\r\n\ Returns\ name\ of\ item\r\n\ @return\ name\ of\ item\r\n
+comment4.params=n
+comment4.target=java.lang.String\ padName(java.lang.String)
+comment5.params=
+comment5.target=int\ getCost()
+comment5.text=\r\n\ Returns\ cost\ of\ item\r\n\ @return\ cost\ of\ item\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Generates\ "printable"\ String\r\n
+numComments=7

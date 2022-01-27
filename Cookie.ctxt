@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Cookie
+comment1.params=name\ numCookies\ pricePerDozen
+comment1.target=Cookie(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=int\ getCost()
+comment3.params=
+comment3.target=int\ getNumCookies()
+comment4.params=
+comment4.target=int\ getPricePerDozen()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
